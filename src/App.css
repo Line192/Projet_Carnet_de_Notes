@@ -1,0 +1,55 @@
+header{
+  height: 200px;
+  width: 100px;
+  padding: 50px;
+}
+.card-container{
+height: 500px;
+width: 100px;
+box-shadow: 0px 3px 50px grey;
+}
+
+.card-wrapper{
+  width: 500px;
+  height: 150px;
+  box-shadow: 0px 3px 50px grey;
+ 
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.card-top{
+  width: 250px;
+  height:10px;
+}
+
+.task-holder{
+  width: 250px;
+  height: 100px;
+  padding:1em;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+
+
+.card-header{
+  margin:1px;
+  max-width: 500px;
+  height: 30px;
+  padding: 1px 1px !important;
+  flex-wrap: wrap;
+  
+}
+
+.task-container{
+  height: 600px;
+  width: 100px;
+  display: flex;
+ 
+  padding:10px 100px;
+  margin-left: .5rem;
+  
+ 
+}

@@ -1,0 +1,11 @@
+.content{
+    background-color: rgb(208, 216, 224);
+    position: relative;
+    width: 100%;
+    margin: auto;
+}
+.btn {
+    margin: 0px 0px 10px 100px;
+  
+    width: auto;
+}
